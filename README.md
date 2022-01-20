@@ -1,6 +1,8 @@
 # Specializations Capstone
 1 - Keeping track of my knitting projects, materials/patterns used
+    
 2 - Allows me to visualize the material/patterns used in my projects and how many i've completed
+    
 3 - Tech Stack
     Python
     Pandas: parsing through data
