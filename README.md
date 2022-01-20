@@ -1,4 +1,4 @@
-# Specializations Capstone
+# Data-Solutions Capstone
 1 - Keeping track of my knitting projects, materials/patterns used
     
 2 - Allows me to visualize the material/patterns used in my projects and how many i've completed
