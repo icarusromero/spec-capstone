@@ -1,0 +1,27 @@
+ID|color|item_type|method|fiber_contentID|yarn_weight|completed|start_date|completion_date|patternID
+1|"orange"|cardigan|knit|1|worsted|False|11-Oct-2020|N/A|2
+2|"purple"|cardigan|crochet|2|worsted|True|15-Sep-2020|04-Oct-2020|15
+3|"green"|scarf|knit|1|worsted|True|14-Sep-2018|31-Oct-2019|12
+4|"purple, white"|croptop|crochet|2|worsted|True|02-Apr-2021|06-May-2021|23
+5|"red, white"|plushie|crochet|3|worsted|True|03-Nov-2021|07-Nov-2021|19
+6|"red, white, yellow"|jacket|crochet|3|worsted|True|N/A|N/A|24
+7|"green"|sweater|knit|2|worsted|False|18-Jul-2020|N/A|13
+8|"orange"|socks|knit|1|fingering|True|07-Jun-2020|10-Aug-2020|4
+9|"red, orange"|plushie|crochet|3|worsted|True|N/A|30-May-2020|17
+10|"gray, purple"|plushie|crochet|3|dk|True|16-Jun-2020|27-Jun-2020|5
+11|"pink, brown"|plushie|crochet|2|worsted|True|14-Apr-2020|15-Apr-2020|22
+12|"purple"|hat|knit|2|worsted|True|16-Apr-2020|10-Oct-2021|10
+13|"blue, orange, yellow"|shawl|knit|4|fingering|True|01-Jun-2018|12-Jul-2018|21
+14|"red, brown, green, yellow"|plushie|crochet|3|worsted|True|02-Feb-2018|30-May-2018|9
+15|"blue, purple, red"|socks|knit|3|dk|True|17-Feb-2018|10-Mar-2018|16
+16|"green"|hat|crochet|3|worsted|True|30-Jan-2018|31-Jan-2018|25
+17|"green, blue, brown"|sweater|knit|12|fingering|False|18-Mar-2019|N/A|6
+18|"green, blue, pink"|bag|knit|5|fingering|True|N/A|08-Nov-2019|20
+19|"pink, white, blue"|sweater|knit|3|worsted|True|03-Nov-3018|16-Jan-2019|11
+20|"purple"|sweater|knit|1|fingering|True|26-Jan-2021|02-Mar-2021|8
+21|"orange, white, yellow"|hat|crochet|3|worsted|True|N/A|N/A|14
+22|"pink"|croptop|crochet|5|fingering|True|18-Dec-2021|21-Dec-2021|1
+23|"blue"|croptop|crochet|5|fingering|True|23-Dec-2021|1-Jan-2022|1
+24|"purple"|cardigan|knit|1|fingering|True|21-Nov-2021|25-Dec-2021|7
+25|"green, purple, pink, blue, orange"|blanket|crochet|3|bulky|N/A|N/A|18
+26|"green"|socks|knit|2|worsted|True|11-Jul-2020|11-Dec-2020|3
