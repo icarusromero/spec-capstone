@@ -15,4 +15,4 @@
     patterns csv file
     
 5 - Acceptance criteria
-    - As a user I should be able to keep track of my knitting progress monthly
+    - As a user I should be able to keep track of my knitting progress yearly
