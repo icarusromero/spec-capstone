@@ -23,5 +23,5 @@ ID|color|item_type|method|fiber_contentID|yarn_weight|completed|start_date|compl
 22|"pink"|croptop|crochet|5|fingering|True|18-Dec-2021|21-Dec-2021|1
 23|"blue"|croptop|crochet|5|fingering|True|23-Dec-2021|1-Jan-2022|1
 24|"purple"|cardigan|knit|1|fingering|True|21-Nov-2021|25-Dec-2021|7
-25|"green, purple, pink, blue, orange"|blanket|crochet|3|bulky|N/A|N/A|18
+25|"green, purple, pink, blue, orange"|blanket|crochet|3|bulky|True|N/A|N/A|18
 26|"green"|socks|knit|2|worsted|True|11-Jul-2020|11-Dec-2020|3
